@@ -12,7 +12,7 @@ const Result = props => {
     },
     {
       name: "Water",
-      percentage: 0.65
+      percentage: 0.705
     },
     {
       name: "Salt",
