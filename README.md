@@ -25,9 +25,16 @@ To the novice pizza baker it is surprising how few ingredients you need to make 
 
 Calculating the quantity of water, salt, and yeast as percentages of the flour makes it easy to scale up the recipe and make more pizzas. This is called bakers math. It makes very easy to adjust the desired output of pizzas you want to bake.
 
+So assuming you want to bake 2 tiny pizzas, you would be using 200 grams of flour. In reality it's a little more, I am just using this as an easier to understand math example. Don't worry - the calculator follows later. Your ingredients would look like this.
+
+* 200 Grams
+* 130 Grams of warm water
+* 4 Grams of salt
+* 0.1 Grams of dry yeast or 0.3 grams of fresh yeast
+
 A typical Pizza in Napoli has a final dough mass before making of around 250 grams. However in Napoli the ovens are also significantly larger. Thus I suggest the home baker to reduce this to around 220 grams dough weight of the pizza. On the picture above you can see me making one of those 220 gram pizzas.
 
-Now to make things a little easier I created a small dough calculator, that will tell you how much of each ingredient you need to make one pizza given the desired final weight of the dough. Remember – the amount of water in one pizza should be 65%  of the mass of the flour – so how much flour do you actually need for a 220 gram pizza? If you're not sure, [use my small calculator.](https://pizza-dough.herokuapp.com/)
+Now to make things a little easier I created a small dough calculator, that will tell you how much of each ingredient you need to make one pizza given the desired final weight of the dough. Remember – the amount of water in one pizza should be 65% of the mass of the flour – so how much flour do you actually need for a 220 gram pizza? If you don't feel like doing the math [use my small calculator.](https://pizza-calculator.the-bread-code.io)
 
 ## Picking the right flour
 
@@ -121,13 +128,15 @@ One hour to go for our 24 hour recipe. I use this hour to let the dough balls re
 
 **24:00: Shape the pizza**
 
+There are many different ways to shape the pizza. The steps listed here are not the most efficient ones, but they create excellent results for the home-baker. In a large scale pizzeria you will be too slow. Besides the written instructions you can also ![watch the whole process as a video.](https://www.youtube.com/watch?v=uhfO_grJEuQ)
+
 *Step 1:*
 
 Cover a large area on a table, or your kitchen with flour. We do not want the dough to stick to the surface. With the spatula/scraper remove the dough from the surface and place it on the bed of flour.
 
 *Step 2:*
 
-Start pressing the dough downwards slightly, starting from the center. That way you will move the air bubbles to the edge of your dough. Unfortunately you will degas some of them, but that is fine. Just keep pressing the dough with your flat hands. If the dough sticks to your hand, flour your hands. The flour is now used since we do not want to damage the dough by having it stick to the surface our our hands.
+Start pressing the dough downwards slightly, starting from the center. That way you will move the air bubbles to the edge of your dough. Unfortunately you will degas some of them, but that is fine. Just keep pressing the dough with your flat hands. If the dough sticks to your hand, flour your hands. The flour is now used since we do not want to damage the dough by having it stick to the surface our hands.
 
 *Step 3:*
 
